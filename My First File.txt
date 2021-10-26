@@ -1,4 +1,8 @@
 Hello
 content added in developer branch
 new content
+<<<<<<< HEAD
 new content 2
+=======
+new content 3
+>>>>>>> developer2
