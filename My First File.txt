@@ -6,3 +6,4 @@ new content 2
 =======
 new content 3
 >>>>>>> developer2
+changes added from developer
